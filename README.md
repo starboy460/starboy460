@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi, I'm Harsha Vardhan 👋
 
-<!--
-**starboy460/starboy460** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Generative AI Engineering • LLM Applications • Research Tools
 
-Here are some ideas to get you started:
+I'm developing my focus in Generative AI engineering, with an interest in practical AI applications that support research and knowledge discovery.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Areas of focus
+
+- **LLM applications:** Working with model APIs and useful AI workflows.
+- **Retrieval-Augmented Generation:** Exploring document search and source-grounded answers.
+- **AI agents:** Investigating tools for research and task automation.
+- **Research support:** Organizing papers, comparing methods, and developing structured paper plans.
+
+## Engineering goals
+
+Build reproducible projects with clear documentation, useful demos, and evaluation of answer quality, reliability, latency, and cost.
+
+## Collaboration
+
+Interested in collaborating on Generative AI applications and research tools. Connect with me through GitHub.
