@@ -11,6 +11,16 @@ I'm developing my focus in Generative AI engineering, with an interest in practi
 - **AI agents:** Investigating tools for research and task automation.
 - **Research support:** Organizing papers, comparing methods, and developing structured paper plans.
 
+## Featured project
+
+### [Neo — Basic AI Agent](https://github.com/starboy460/basic-agent)
+
+A Python conversational agent with an OpenAI-backed chat loop, optional local Ollama models, persistent local conversation memory, task-focused skills, voice interaction, and a browser interface. Includes document summarization, local file tools, image prompt-card fallbacks, and animated video storyboards.
+
+**Technologies:** Python · OpenAI-compatible APIs · Ollama · SpeechRecognition · NumPy · pypdf
+
+[Explore the source and setup guide →](https://github.com/starboy460/basic-agent)
+
 ## Engineering goals
 
 Build reproducible projects with clear documentation, useful demos, and evaluation of answer quality, reliability, latency, and cost.
